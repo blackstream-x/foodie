@@ -1,11 +1,14 @@
 # Chili sin carne
 
 Variation eines Rezepts von veganpowercooking.de
+
 ----
+
 *Zutaten für 2 Personen*
 
 Originalrezept:
 <http://www.veganpowercooking.at/hauptspeisen-41/veganes-chili-sin-carne/>
+
 ----
 
 ## Zutaten
