@@ -2,22 +2,18 @@
 
 Variation eines Rezepts von veganpowercooking.de
 
-----
-
-*Zutaten für 2 Personen*
-
 Originalrezept:
 <http://www.veganpowercooking.at/hauptspeisen-41/veganes-chili-sin-carne/>
 
 ----
 
-## Zutaten
+## Zutaten für 2 Personen
 
 * Olivenöl
 * 1-2 Zwiebeln
 * 2 Dosen Tomatenstücke, je 400 g
 * 200 ml Gemüsebrühe
-* 75--100 g Sojagranulat
+* 75–100 g Sojagranulat
 * eine Dose gegarte Kidneybohnen
 * eine kleine Dose Bio-Zuckermais
 * 1 TL Oregano, getrocknet
@@ -30,7 +26,7 @@ Originalrezept:
 * Saft einer halben Limette
 
 optional:
-* 2 Koblauchzehen, in feine Scheiben geschnitten
+* 2 Knoblauchzehen, in feine Scheiben geschnitten
 * eine rote Paprikaschote
 
 zum Anrichten:
@@ -51,5 +47,5 @@ in kleine Stücke schneiden (Kerne entfernen) und ebenso wie die
 Kakaosplitter dazugeben. Gut durchrühren und noch einmal aufkochen lassen.
 
 Zum Schluss noch einmal mit Salz, Zucker und einem
-Schuss Limettensaft abschmecken, mit den Korinaderblättern bestreuen
+Schuss Limettensaft abschmecken, mit den Korianderblättern bestreuen
 und mit den Nachos servieren.
