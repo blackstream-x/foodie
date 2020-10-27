@@ -3,7 +3,7 @@
 _Variation eines Rezepts von veganpowercooking.de (Originalrezept dort nicht mehr auffindbar)._  
 _vegan, laktose- und glutenfrei_
 
-![Serviervorschlag](./chili_sin_carne.jpg Serviervorschlag)
+![Serviervorschlag](./chili_sin_carne.jpg "Serviervorschlag")
 
 ----
 
