@@ -14,8 +14,8 @@ _vegan, laktose- und glutenfrei_
 * 2 Dosen Tomatenstücke, je 400 g
 * 200 ml Gemüsebrühe
 * 75–100 g Sojagranulat
-* eine Dose gegarte Kidneybohnen
-* eine kleine Dose Bio-Zuckermais
+* eine Dose gegarte schwarze Bohnen oder Kidneybohnen
+* eine kleine Dose Zuckermais
 * 1 TL Oregano, getrocknet
 * 1½ TL Zimt, gemahlen oder von der Stange gerieben
 * 1 TL Kreuzkümmel, gemahlen
@@ -31,7 +31,7 @@ optional:
 
 zum Anrichten:
 * Nachos (nur gesalzen)
-* Koriandergrün
+* Koriandergrün, falls zur Hand
 
 ## Zubereitung
 
