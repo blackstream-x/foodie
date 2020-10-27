@@ -1,9 +1,9 @@
 # Chili sin carne
 
-Variation eines Rezepts von veganpowercooking.de
+_Variation eines Rezepts von veganpowercooking.de (Originalrezept dort nicht mehr auffindbar)._  
+_vegan, laktose- und glutenfrei_
 
-Originalrezept:
-<http://www.veganpowercooking.at/hauptspeisen-41/veganes-chili-sin-carne/>
+![Serviervorschlag](./chili_sin_carne.jpg Serviervorschlag)
 
 ----
 
