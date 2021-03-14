@@ -1,8 +1,10 @@
 # foodie
 
-_alles vegetarisch_
+Kleine Rezeptsammlung, vorwiegend vegetarisch.
 
-## [Mexikanisch:](./mex/)
+## Gebäck (tba)
+
+## [Mexikanisch](./mex/)
 
 * [Chili sin carne](./mex/chili_sin_carne.md)
 * [Huevos Rancheros](./mex/huevos_rancheros.md)
