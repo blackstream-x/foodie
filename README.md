@@ -2,7 +2,9 @@
 
 Kleine Rezeptsammlung, vorwiegend vegetarisch.
 
-## Gebäck (tba)
+## [Gebäck](./gebäck/)
+
+* [Irish Scones](./gebäck/irish_scones.md)
 
 ## [Mexikanisch](./mex/)
 
