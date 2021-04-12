@@ -5,22 +5,24 @@
 Originalrezept:
 <http://www.jamieoliver.com/recipes/eggs-recipes/mexican-breakfast/>
 
+![Serviervorschlag](./huevos_rancheros.jpg "Serviervorschlag")
+
 ----
 
 ## Zutaten
 
 * Olivenöl
 * eine Knoblauchzehe, in feine Scheiben geschnitten (optional)
-* ½ Paprika, gewürfelt (optional)
-* ½ Zwiebel, gewürfelt
-* ¼ Habanero, in kleine Stücke geschnitten
-* ein Lorbeerblatt
+* 1 Paprika, gewürfelt (optional)
+* 1 Zwiebel, gewürfelt
+* ½ Habanero, in kleine Stücke geschnitten
+* 2 Lorbeerblätter
 * Salz und schwarzer Pfeffer aus der Mühle
-* Je nach Geschmack: Kräuter der Provence und Muskatnuss
-* eine 400g-Büchse Tomaten
-* eine große frische Tomate, in Scheiben geschnitten
-* 3 große Eier
-* 3 Tortilla-Wraps
+* Je nach Geschmack: Kräuter der Provence, Thymian und Muskatnuss
+* 2 400g-Büchsen gehackte Tomaten
+* 2 große frische Tomaten, in Scheiben geschnitten
+* 6 Eier
+* 6 Tortilla-Wraps
 * Frischer Koriander
 
 ## Zubereitung
@@ -51,4 +53,4 @@ einrollen und essen. Man kann vor dem Einrollen den Inhalt auch mit
 geriebenem Käse bestreuen.
 
 Sour Cream oder Guacamole passen als Beilage.
-Braune Bohnen, am besten als Mus, gehen natürlich auch.
+Schwarze Bohnen, am besten als Mus, gehen natürlich auch.
