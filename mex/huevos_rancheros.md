@@ -35,7 +35,8 @@ Dosentomaten hinzugeben und mit dem Pfannenwender etwas zerkleinern.
 Die Mischung aufkochen, dann auf mittlere Hize zurückdrehen und ca.
 5 Minuten weiter kochen, dass sie eindickt. Die 
 
-Abschmecken und je nach Geschmack nachsalzen und -pfeffern, dann die
+Abschmecken, je nach Geschmack nachsalzen und -pfeffern,
+die Habanerostückchen einrühren und danach die
 Scheiben der frischen Tomate darauflegen. Mit einem Löffel kleine
 "Dellen" in die Masse drücken und dort hinein die aufgeschlagenen
 Eier geben (zügig, damit sie in etwa die gleiche Zeit gekocht werden).
