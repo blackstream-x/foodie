@@ -1,6 +1,6 @@
 # Huevos Rancheros
 
-"Hangover cure" – Variation eines Rezepts von Jamie Oliver
+Mexikanisch angehauchte Shakshouka-Variante, z.B. als Katerfrühstück – Variation eines Rezepts von Jamie Oliver
 
 Originalrezept:
 <http://www.jamieoliver.com/recipes/eggs-recipes/mexican-breakfast/>
